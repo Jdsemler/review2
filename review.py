@@ -18,3 +18,7 @@
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
 
+loop = [2,4,6,8]
+for i in loop:
+   print i
+print 'Who do we appreciate?'
